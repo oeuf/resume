@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Nick Gustafson",
+    "label": "Data Scientist",
+    "summary": "Full Stack Data Scientist | Transforming Data into Actionable Insights | Specializing in Machine Learning, Scalability, Analytics, Data Engineering, & Cloud Technologies | Passionate about Data Driven Decision Making",
+    "email": "njgustafson@gmail.com",
+    "location": {
+      "city": "San Francisco",
+      "countryCode": "CA"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/oeuf",
+        "username": "oeuf",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/njgustafson",
+        "username": "njgustafson",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "area": "Neural Science",
+      "studyType": "PhD, Dean's Dissertation Award",
+      "institution": "New York University",
+      "startDate": "2006-09-01",
+      "endDate": "2013-05-01"
+    },
+    {
+      "area": "Neurobiology",
+      "studyType": "Bachelors of Science, summa cum laude, Phi Beta Kappa, ",
+      "institution": "The University of Texas at Austin",
+      "startDate": "2000-09-01",
+      "endDate": "2004-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Python",
+        "SQL",
+        "Spark / PySpark / Spark SQL / Databricks",
+        "Data Storytelling",
+        "Data Visualization",
+        "ETL",
+        "Data Strategy"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Collective Health",
+      "startDate": "2021-04-01",
+      "summary": "Highly motivated and experienced Data Science Manager with a focus on driving product insights through data. Proven expertise in team leadership, cross-functional collaboration, and implementing best practices in data science and product development lifecycle. Adept at fostering a data-informed culture and integrating quantitative and qualitative data to inform strategic decisions.",
+      "location": "San Francisco",
+      "position": "Data Science Manager, Product Insights",
+      "highlights": [
+        "Team Growth & Retention: Successfully grew a team of full-stack data scientists from 1 to 4 members, maintaining 100% team retention over two years.",
+        "Cross-Functional Collaboration: Established productive partnerships with Engineering, Product, and Design departments to integrate data science seamlessly into the product development lifecycle (PDLC).",
+        "Experimentation and AB Testing: Oversaw development of an evaluation plan for experimentation and AB testing, from ideation to evaluation.",
+        "Data-Driven Decision Making: Championed data-driven decision-making, resulting in more targeted and effective product strategy & development initiatives.",
+        "Culture Shift: Spearheaded a company-wide culture shift toward data-informed decision-making for feature, product, and organizational metric development.",
+        "Event Instrumentation: Collaborated with Engineering and Product teams to establish best practices for event instrumentation, ensuring the capture of relevant data for success and failure metrics.",
+        "Code and Peer Review: Implemented cross-team processes for code and peer reviews using GitHub, including the creation of a Python style guide, code review guidelines, and a data science process template for projects.",
+        "Data Quality & Testing: Led initiatives to automate data quality checks, unit testing, integration testing, and data governance, enhancing the reliability and credibility of data across the organization.",
+        "User Research Partnership: Formed a cross-functional partnership with User Research to combine quantitative and qualitative insights, significantly impacting the product roadmap and strategy."
+      ]
+    },
+    {
+      "name": "Collective Health",
+      "startDate": "2020-08-01",
+      "endDate": "2021-04-01",
+      "summary": "Staff-Level Full Stack Data Scientist specializing in automating data pipelines, machine learning model development, and operational efficiency. A proven tech lead with strong mentorship skills and a commitment to cross-functional collaboration. Highly skilled in Spark SQL, CI/CD, and Databricks.",
+      "location": "San Francisco",
+      "position": "Staff Data Scientist, Algorithms",
+      "highlights": [
+        "Clinical Risk Score Model: Spearheaded the end-to-end development of a machine learning model for clinical risk scoring, enhancing healthcare outcomes.",
+        "Clinical Recommendation Engine: Served as tech lead and end-to-end developer for a clinical recommendation engine, leveraging advanced analytics to deliver actionable healthcare insights.",
+        "Mentorship: Successfully mentored two data scientists, accelerating their career development and project output.",
+        "Automated Reporting Platform: Served as tech lead for an automated platform that generates slide decks with data insights, improving decision-making and data accessibility across the organization.",
+        "Platform Migration & Optimization: Led the migration from a legacy platform to a Spark SQL-based system, achieving a 99% runtime reduction while significantly cutting down on compute and storage costs.",
+        "Operational Cost Reduction: Successfully reduced operational and infrastructure costs by over 95% for more than 10 critical pipelines, boosting overall operational efficiency.",
+        "Automated ML & CI/CD Tooling: Developed automated tooling for machine learning and CI/CD, resulting in thousands of hours saved in development time.",
+        "Data Validation Tool: Created an automated data validation tool for migrating pipelines and analyses from legacy systems to Databricks, ensuring data accuracy and integrity.",
+        "Cross-Functional Advisor: Acted as a thought partner and advisor to a diverse set of roles including data scientists, data analysts, data engineers, actuaries, clinical staff, and product managers.",
+        "Software Engineering Best Practices: Integrated and established best practices for software engineering across data teams, focusing on unit testing, scalability, maintainability, idiomatic/clean code, and CI/CD."
+      ]
+    },
+    {
+      "name": "Collective Health",
+      "startDate": "2018-10-01",
+      "endDate": "2020-08-01",
+      "summary": "Results-oriented Senior Data Scientist with a strong background in developing high-impact machine learning models and data engineering solutions. Demonstrated expertise in personalized recommendation engines, computational cost optimization, and cross-functional collaboration. Proven skills in team leadership and in setting data science best practices across multiple team.",
+      "location": "San Francisco",
+      "position": "Senior Data Scientist, Algorithms",
+      "highlights": [
+        "Clinical Recommendation Engine: Engineered an end-to-end Personalized Recommendation Engine for clinical navigation. Achieved 101% parity with existing systems while reducing compute and storage costs by over 90%. Ensured robustness through 100% unit test coverage and automated integration test suites. Designed the system for horizontal scalability and high throughput.",
+        "Data science, engineering, and machine learning mentorship: Served as a go-to advisor for colleagues on best practices in data science, data engineering, machine learning and statistics, including sample size estimation, feature engineering, hyperparameter tuning, design patterns, and model selection techniques.",
+        "Cross-Functional Collaboration: Partnered closely with Engineering, Product, Design, and Clinical Staff to scope opportunities, develop, and measure the impact of over 10 different clinical recommendation initiatives, enhancing overall effectiveness and alignment.",
+        "Python Package Development: Led the development of a Python package offering tools for data science and data engineering in Spark. This package is actively used by 5+ teams, has over 20 contributors, and forms the core foundation for all data-related work in the company."
+      ]
+    },
+    {
+      "name": "Collective Health",
+      "startDate": "2018-01-01",
+      "endDate": "2018-10-01",
+      "summary": "Detail-oriented Data Scientist with proven expertise in data governance, software engineering practices in data science, and performance optimization. Exceptional ability to work cross-functionally, identify and solve critical bugs, and improve operational efficiency.",
+      "location": "San Francisco",
+      "position": "Data Scientist, Algorithms",
+      "highlight": [
+        "Recommendation Engine Scaling: Successfully took a recommendation engine from prototype to production, processing millions of claims per day for hundreds of thousands of people, demonstrating expertise in system scalability and high-throughput data processing.",
+        "Clinical Campaign Evaluation: Established an opportunity sizing and evaluation plan for clinical recommendation campaigns, providing a structured approach to assessing impact and driving informed decision-making.",
+        "Data Governance Initiative: Led a company-wide data governance initiative and audit for event instrumentation and logging, ensuring data quality and compliance across all teams.",
+        "Software Engineering Practices: Championed the incorporation of software engineering best practices into production-level data science products, enhancing maintainability and scalability.",
+        "Performance Optimization: Dramatically decreased the runtime and operational costs of 5 key company data products by 99%. Took unit test coverage from 0% to 100% and implemented integration tests, ensuring robust and reliable systems.",
+        "Bug Identification & Fixing: Proactively identified and fixed over 20 critical bugs, contributing to the improvement of data quality and system performance."
+      ]
+    },
+    {
+      "name": "Udacity",
+      "startDate": "2013-10-01",
+      "endDate": "2015-11-01",
+      "summary": "Responsible for all things data, from building predictive models ad hoc analyses to implementing data pipelines and everything in between.",
+      "location": "Mountain View",
+      "position": "Data Scientist",
+      "highlights": [
+        "Cross-Team Data Advocacy: Fostered a culture of data-driven decision-making by delivering data services and collaborating with professionals across multiple company teams.",
+        "KPI Strategy: Partnered with Product and Executive leadership to establish and promote key performance indicators, aligning analytics with strategic business goals.",
+        "Data Infrastructure: Developed and maintained sophisticated data pipelines and dashboards for real-time monitoring of feature, product, and organizational KPIs.",
+        "Student Behavior Analytics: Extracted actionable insights from student data, pinpointing effective study habits, significant 'aha moments,' and key risk factors for abandonment and churn.",
+        "ETL System Development: Engineered a robust ETL framework using Kafka, Google App Engine, and Redshift to optimize data processing workflows.",
+        "Predictive Modeling: Designed and implemented predictive models to analyze and understand student behavior, contributing to enhanced engagement and personalized learning experiences.",
+        "Production ETL Scripting: Authored production-level ETL scripts to capture intricate metrics related to student and user behavior, enhancing data reliability and reporting accuracy.",
+        "Specialized Analyses: Conducted ad hoc analyses to meet internal requirements and supported investor due diligence during fundraising efforts, underscoring data accuracy and transparency."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "position": "Data Scientist",
+      "organization": "Datakind",
+      "startDate": "2015-09-01",
+      "endDate": "2016-09-01",
+      "summary": "Worked with California Department of Justice on the Open Justice initiative. Designed metrics for measuring racial disparity and built data warehouse with using Gitlab, AWS, Heroku, LetsEncrypt, and Jupyter notebooks. Project outcome lead to successful funding of a 4 person data team."
+    }
+  ]
+}
